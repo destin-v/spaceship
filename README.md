@@ -2,7 +2,7 @@
 # Computer Vision Takehome - Decloaking Spaceship
 
 ## Note
-This was a take home exam that I completed for an interview back in 2021.  The exam is no longer used by the hiring company and the code has been abandoned.  I created a novel implementation that was able to train on limited GPU resources.  This code is designed to showcase how to train small models for a difficult problem.  The small models can be stitched together in a *hydra* configuration to provide accurate inferences on many different tasks.
+This was a take home exam that I completed back in 2021.  The exam requires building an AI solution to pick out an object from a noisey environment.  I created a novel implementation that was able to train on limited GPU resources.  This code is designed to showcase how to train small models for a difficult problem.  The small models can be stitched together in a *hydra* configuration to provide accurate inferences on many different tasks.
 
 ---
 
