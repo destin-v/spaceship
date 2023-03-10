@@ -10,6 +10,9 @@ This was a take home exam that I completed for an interview back in 2021.  The e
 Python==3.8 is needed in order to install the packages stated in the requirements.txt.
 
 **Problem:**
+
+<img title="spaceship problem" alt="Alt text" src="example.png">
+
 The goal is to detect spaceships which have been fitted with a cloaking device that makes them less visible. You are expected to use a deep learning model to complete this task. The model will take a single channel image as input and detects the spaceship (if it exists). Not all image will contain a spaceship, but they will contain no more than 1. For any spaceship, the model should predict their bounding box and heading. This can be described using five parameters:
 
 * X and Y position (centre of the bounding box)
